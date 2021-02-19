@@ -9,3 +9,14 @@ C:\Users\hemakumar.v\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.
 C:\Users\hemakumar.v\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
 C:\Users\hemakumar.v\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
 C:\Users\hemakumar.v\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
+D:\task\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+D:\task\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+D:\task\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+D:\task\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+D:\task\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+D:\task\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
